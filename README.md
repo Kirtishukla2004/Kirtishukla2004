@@ -16,18 +16,6 @@ I am a software engineer specializing in backend and full-stack application deve
 **Core Concepts:** Object-Oriented Programming, SOLID Principles, MVC Architecture
 **Tools & Practices:** Git, JWT Authentication, Software Development Life Cycle (SDLC)
 
----
-
-### Professional Experience
-
-**Software Developer, Navasso Technologies**
-Developing and maintaining Azure Functions, REST APIs, SQL Server databases, and MVC-based web applications.
-
-**Frontend Development Intern, Technorate Animations**
-Developed responsive user interfaces in React based on design specifications provided in Figma and Canva.
-
----
-
 ### Selected Projects
 
 - **Job Tracker Web Application** — Built using ASP.NET Core, SQL Server, and JWT-based authentication
